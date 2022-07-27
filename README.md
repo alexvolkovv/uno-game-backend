@@ -8,3 +8,6 @@
 3. Hibernate
 4. H2
 
+## Физическая модель базы данных
+
+![image](https://user-images.githubusercontent.com/38156923/181248162-f5659ffa-d4de-473f-9f76-da7b2e581333.png)
